@@ -1,0 +1,1 @@
+<img src="e60.png" alt="Bmw M5 E60" usemap="#e60map" width="700" height="700">
